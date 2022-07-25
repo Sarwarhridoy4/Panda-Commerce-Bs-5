@@ -7,9 +7,12 @@ html {
 }
 
 button.custom-button {
-    background: #FF2C7F;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     font-weight: 700;
     color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
 }
 
 #top {
