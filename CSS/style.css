@@ -1,11 +1,19 @@
 html {
     font-family: 'Poppins', sans-serif;
 }
-.bg-color{
+
+.custom-bg-color {
     background: #FCEAE8;
 }
-#top{
+
+button.custom-button {
+    background: #FF2C7F;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+#top {
     position: absolute;
     right: 0;
-    
+
 }
