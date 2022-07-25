@@ -4,3 +4,8 @@ html {
 .bg-color{
     background: #FCEAE8;
 }
+#top{
+    position: absolute;
+    right: 0;
+    
+}
